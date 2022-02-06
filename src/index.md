@@ -1,6 +1,6 @@
 ---
 layout: homepage_layout
-title: Javascript Training Courses | Dublin Cork Limerick Ireland
+title: Key Account Management Training Courses | Dublin Cork Limerick Ireland
 page:
     type: home
 ---

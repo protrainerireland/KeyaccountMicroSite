@@ -1,12 +1,12 @@
 {
-    "searchKeywords": ["Javascript"],
+    "searchKeywords": ["Key Account Management"],
     "searchLocations": ["Dublin", "Cork", "Limerick", "Ireland"],
     "homepageTitle": "Training Courses - Dublin Cork Limerick Ireland", 
     "organisation": {
-        "name": "AngularTraining.ie" 
+        "name": "KeyAccountManagementTraining.ie" 
     },
-    "url": "angulartraining.ie",
-    "logo": "/img/javascriptlogo.png",
+    "url": "keyaccountmanagementtraining.ie",
+    "logo": "",
     "address": {
         "line1": "Building 6500E", 
         "line2": "Cork Airport Business Park", 
