@@ -25,8 +25,11 @@
             "imagePosition": "right",
             "content":{
                 "title": "Manage time and territory more effectively...",
-                "text1": "Key Account Managers are responsible for an organisation's most vital customers. They need to have an in depth understanding of the all the factors which effect servicing the requirements of customers designated as Key Accounts. KAMs must use strategic and tactical tools and processes to achieve the customer and supplier relationship required. Our training programme helps participants to define Key Accounts and manage time and territory more effectively.",
-                "text2": "We also offer unique and structured sales training programmes that instill the sales person with the skills and attitudes they’ll need to help them advance successfully through their careers and positively contribute to the business."
+                "text":[
+                    "Key Account Managers are responsible for an organisation's most vital customers. They need to have an in depth understanding of the all the factors which effect servicing the requirements of customers designated as Key Accounts. KAMs must use strategic and tactical tools and processes to achieve the customer and supplier relationship required. Our training programme helps participants to define Key Accounts and manage time and territory more effectively.",
+                    "We also offer unique and structured sales training programmes that instill the sales person with the skills and attitudes they’ll need to help them advance successfully through their careers and positively contribute to the business."
+                ]
+            
             }
         },
         {
@@ -34,14 +37,15 @@
             "link": "/#summary", 
             "text": "What to Expect", 
             "title": "What to Expect", 
-            "type": "summary",
+            "type": "keywordtext",
             "image": "", 
             "imagePosition": "right",
             "content":{
                 "title": "What to expect from one of our Facilitation Skills courses?",
-                "text1": "<a href=/courses>Our Key Account Management course</a> is an active programme. Participants will be asked to choose one key account and use that throughout the programme to build on the course material. At the end of the programme the participants will have a real-life template that is based on their particular market and their particular style.",
-
-                "text2": "Participants will focus on how to:",
+                "text":[
+                    "<a href=/courses>Our Key Account Management course</a> is an active programme. Participants will be asked to choose one key account and use that throughout the programme to build on the course material. At the end of the programme the participants will have a real-life template that is based on their particular market and their particular style.",
+                    "Participants will focus on how to:"
+                ],
                 "list":[
                     "Manage the relationships and understand the long term nature of the relationship (hunting versus farming).", 
                     "Manage all of the relationships that exist between the company and the client.", 
@@ -50,7 +54,9 @@
                     "Manage and deal with change as it happens ", 
                     "Understand the importance of constant review as a means of strengthening relationships."
                 ],
-                "text3": "We also offer advanced training for experienced sales people responsible for managing, retaining and expanding business with key accounts. If there is a newly recruited field or office-based salesperson that requires an initial training support programme to accelerate their performance, then we have the answer."
+                "text2":[
+                    "We also offer advanced training for experienced sales people responsible for managing, retaining and expanding business with key accounts. If there is a newly recruited field or office-based salesperson that requires an initial training support programme to accelerate their performance, then we have the answer."
+                ] 
             }
         }
         
