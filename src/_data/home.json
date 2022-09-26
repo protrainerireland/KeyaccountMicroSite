@@ -40,6 +40,7 @@
             "type": "keywordtext",
             "image": "", 
             "imagePosition": "right",
+            "imageWidth": 300, 
             "content":{
                 "title": "What to expect from one of our Facilitation Skills courses?",
                 "text":[
